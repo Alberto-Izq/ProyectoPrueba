@@ -1,4 +1,4 @@
 function saludo (){
 
-    alert ("Hola amiguitos de Youtube");
+    alert ("Hola amigutos");
 }
